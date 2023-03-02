@@ -3,6 +3,8 @@ b=20
 c=a+b
 print('Addition of two number is:',c)
 
-#This addition of two number program
+#This program is for addition of two number
+
+
 
 
